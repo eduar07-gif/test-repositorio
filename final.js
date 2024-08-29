@@ -3,7 +3,7 @@ function EntRandom(min, max) {
     max = Math.floor(max);
     return Math.floor(Math.random() * (max - min + 1)) + min; // esto es una semilla 
 }
-//TALLER VECTORES 
+//TALLER VECTORES pruebaaaaa 2252
 var valor = 1;
 var Num_Aleatorios = [];
 var Almacena = []; //arreglos primer punto(case 1)
